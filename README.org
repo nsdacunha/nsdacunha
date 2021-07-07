@@ -1,0 +1,18 @@
+#+OPTIONS: H:3 num:nil toc:2 \n:nil ::t |:t ^:{} -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc
+#+STARTUP: align fold nodlcheck hidestars oddeven lognotestate hideblocks
+#+TAGS: noexport(n)
+#+TITLE: N.S. Da Cunha Repository Overview
+#+AUTHOR: Neil S Da Cunha
+#+EMAIL: nsdacunha[at]gmail[dot]com
+#+LANGUAGE: en
+#+HTML_HEAD:      <style type="text/css">#outline-container-introduction{ clear:both; }</style>
+#+EXCLUDE_TAGS: noexport
+
+** FPGA
+*** Fudoku - Design Phase [0%]
+*** Simple CPU - Design Phase [0%]
+*** Koiner - Design Phase [0%]
+*** Fried Piper - Design Phase [0%]
+** Android
+*** Cellmatica - Design Phase [0%]
+*** org-Droid - Design Phase [0%]
